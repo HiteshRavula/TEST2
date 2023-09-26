@@ -1,0 +1,18 @@
+body{
+    background: url('./images/back.jpg'); 
+    
+    color: #FFFFFF;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#root{
+    background-color: rgba(0,0,0,0.35);
+}
+
+.table{
+    max-width:95vw;
+    margin:auto;
+    margin-bottom:10px;
+    margin-top:10px;
+    border: 2px solid black;
+}
