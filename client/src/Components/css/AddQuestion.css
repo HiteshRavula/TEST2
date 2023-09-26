@@ -1,0 +1,19 @@
+#addquestion{
+    padding-top:55px;
+}
+
+#addform{
+    margin-bottom:30px;
+}
+
+#addquestion .jumbotron{
+    color:black;
+}
+
+#addquestion .jumbotron h1{
+    padding-bottom:20px;
+}
+
+#questiontable{
+    overflow-x: auto;
+}
